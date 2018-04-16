@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+The algorithms are here. The rests are really up to you.
